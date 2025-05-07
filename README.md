@@ -13,110 +13,74 @@
   <img src="https://komarev.com/ghpvc/?username=Rohit00112&style=for-the-badge&color=6366F1" alt="Profile Views" style="margin: 0 5px;"/>
 </div>
 
-<div align="center" style="margin: 30px 0 20px 0;">
-  <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="margin-right: 10px;"> About Me</h2>
+<div align="center">
+  <h2>👋 About Me</h2>
 </div>
 
-<div style="display: flex; align-items: center; margin: 20px 0 30px 0;">
-  <div style="flex: 3; padding-right: 30px;">
-    <p style="text-align: justify; font-size: 16px; line-height: 1.6;">
-      I'm a passionate <b>Full Stack Developer</b> with expertise in web and mobile application development. I specialize in creating intuitive user experiences while implementing robust backend functionality. My approach combines technical excellence with creative problem-solving to deliver high-quality solutions.
-    </p>
-  </div>
-  <div style="flex: 2; text-align: center;">
-    <img alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
-  </div>
+I'm a passionate **Full Stack Developer** with expertise in web and mobile application development. I specialize in creating intuitive user experiences while implementing robust backend functionality. My approach combines technical excellence with creative problem-solving to deliver high-quality solutions.
+
+<div align="center">
+  <img alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 </div>
 
-<div style="background: rgba(13, 17, 23, 0.05); padding: 20px; border-radius: 10px; margin: 30px 0; box-shadow: 0 8px 24px rgba(99, 102, 241, 0.1);">
-  <details>
-    <summary style="cursor: pointer; font-weight: 700; font-size: 18px; color: #6366F1; padding: 10px 0;"><b>✨ More about me</b></summary>
-    <div style="padding: 15px 0 5px 20px;">
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li style="margin-bottom: 15px; display: flex; align-items: center;">
-          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="margin-right: 15px;">
-          <span>Currently working on <b>web development projects</b> using modern frameworks</span>
-        </li>
-        <li style="margin-bottom: 15px; display: flex; align-items: center;">
-          <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30" style="margin-right: 15px;">
-          <span>Continuously expanding my knowledge in <b>cloud technologies</b> and microservices</span>
-        </li>
-        <li style="margin-bottom: 15px; display: flex; align-items: center;">
-          <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="30" style="margin-right: 15px;">
-          <span>Open to collaborating on <b>innovative open-source projects</b></span>
-        </li>
-        <li style="margin-bottom: 15px; display: flex; align-items: center;">
-          <img src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" width="30" style="margin-right: 15px;">
-          <span>Expertise in <b>web development, JavaScript, React, and Java</b></span>
-        </li>
-        <li style="margin-bottom: 15px; display: flex; align-items: center;">
-          <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="30" style="margin-right: 15px;">
-          <span>How to reach me: <b><a href="mailto:subedirohit49@gmail.com">subedirohit49@gmail.com</a></b></span>
-        </li>
-      </ul>
-    </div>
-  </details>
+<details>
+  <summary><b>✨ More about me</b></summary>
+
+  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently working on **web development projects** using modern frameworks
+  - <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> Continuously expanding my knowledge in **cloud technologies** and microservices
+  - <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="30"> Open to collaborating on **innovative open-source projects**
+  - <img src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" width="30"> Expertise in **web development, JavaScript, React, and Java**
+  - <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="30"> How to reach me: **[subedirohit49@gmail.com](mailto:subedirohit49@gmail.com)**
+</details>
+
+
+<div align="center">
+  <h2>🛠️ Technical Skills</h2>
 </div>
 
+### ⚡ Frontend Development
 
-<div align="center" style="margin: 30px 0 20px 0;">
-  <h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" style="margin-right: 10px;"> Technical Skills</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
 
-<div style="background: rgba(13, 17, 23, 0.05); padding: 25px; border-radius: 10px; margin: 20px 0 30px 0; box-shadow: 0 8px 24px rgba(99, 102, 241, 0.1);">
-  <div style="margin-bottom: 25px;">
-    <h3 style="color: #6366F1; margin-bottom: 15px; font-size: 20px; display: flex; align-items: center;">
-      <span style="margin-right: 10px;">⚡</span> Frontend Development
-    </h3>
-    <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-    </p>
-  </div>
+### ⚙️ Backend Development
 
-  <div style="margin-bottom: 25px;">
-    <h3 style="color: #6366F1; margin-bottom: 15px; font-size: 20px; display: flex; align-items: center;">
-      <span style="margin-right: 10px;">⚙️</span> Backend Development
-    </h3>
-    <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-    </p>
-  </div>
-
-  <div>
-    <h3 style="color: #6366F1; margin-bottom: 15px; font-size: 20px; display: flex; align-items: center;">
-      <span style="margin-right: 10px;">🛠️</span> Database & Tools
-    </h3>
-    <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    </p>
-  </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 </div>
 
-<div align="center" style="margin: 30px 0 20px 0;">
-  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="margin-right: 10px;"> GitHub Stats & Metrics</h2>
+### 🛠️ Database & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+<div align="center">
+  <h2>📊 GitHub Stats & Metrics</h2>
 </div>
 
 <div style="background: rgba(13, 17, 23, 0.05); padding: 25px; border-radius: 10px; margin: 20px 0 30px 0; box-shadow: 0 8px 24px rgba(99, 102, 241, 0.1);">
@@ -166,8 +130,8 @@
 </div>
 
 
-<div align="center" style="margin: 30px 0 20px 0;">
-  <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="35" style="margin-right: 10px;"> Favorite Quote</h2>
+<div align="center">
+  <h2>💭 Favorite Quote</h2>
 </div>
 
 <div style="background: rgba(13, 17, 23, 0.05); padding: 25px; border-radius: 10px; margin: 20px 0 30px 0; box-shadow: 0 8px 24px rgba(99, 102, 241, 0.1);">
@@ -176,8 +140,8 @@
   </div>
 </div>
 
-<div align="center" style="margin: 30px 0 20px 0;">
-  <h2><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35" style="margin-right: 10px;"> Connect With Me</h2>
+<div align="center">
+  <h2>🔗 Connect With Me</h2>
 </div>
 
 <div style="background: rgba(13, 17, 23, 0.05); padding: 25px; border-radius: 10px; margin: 20px 0 30px 0; box-shadow: 0 8px 24px rgba(99, 102, 241, 0.1);">
